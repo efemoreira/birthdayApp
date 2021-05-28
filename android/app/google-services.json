@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833640905509",
+    "project_id": "tributetest-5ba8c",
+    "storage_bucket": "tributetest-5ba8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833640905509:android:69988418832c7f2e0238cc",
+        "android_client_info": {
+          "package_name": "com.tributetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833640905509-h1bpn7fs03i3ae4k81up3l7rr88bspq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFrtjJdUuS--HmkOHI1sPPih2r7ea9Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833640905509-h1bpn7fs03i3ae4k81up3l7rr88bspq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
